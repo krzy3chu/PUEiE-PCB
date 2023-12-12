@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TSP62851x")(type "KiCad")(uri "${KIPRJMOD}/TSP62851x_library/TSP62851x.pretty")(options "")(descr "Footprints for TSP62851x step-down buck DC/DC converters"))
+)
