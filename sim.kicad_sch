@@ -2121,7 +2121,7 @@
     (property "Value" "Antenna_connector" (at 179.3632 45.72 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 179.07 49.53 0)
+    (property "Footprint" "Connector_Coaxial:U.FL_Molex_MCRF_73412-0110_Vertical" (at 179.07 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (at 179.07 49.53 0)
